@@ -3,7 +3,7 @@ Check your grades from the cli
 
 [Check out MobileGrades on the Google Play Store](https://play.google.com/store/apps/details?id=com.mobilegrades)
 
-**Disclaimer: This software is for educational purposes only. Use of Powerschool is subject to their [terms and conditions](https://www.powerschool.com/terms/). The use of this app would violate those terms. The developers are not liable for any damages caused by this software. See the license below for more info. **
+**Disclaimer: This software is for educational purposes only. Use of Powerschool is subject to their [terms and conditions](https://www.powerschool.com/terms/). The use of this app would violate those terms. The developers are not liable for any damages caused by this software. See the license below for more info.**
 
 ## LICENSE
 
